@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnityLearn2019/Scenes/05ScriptBasics/04SceneLoadAndExit.unity
+    guid: 660159d574501874a83f3ba64f5f5443
+  - enabled: 1
+    path: Assets/UnityLearn2019/Scenes/05ScriptBasics/04SceneTarget.unity
+    guid: 9f8e56da5a97ee94fb8d9b4f7987b39e
   m_configObjects: {}
